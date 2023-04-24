@@ -1,0 +1,12 @@
+    --- INSTRUÇÃO DE USO ---
+
+    1) Os nomes dos usuários a serem monitorados devem estar dentro do arquivo que
+está no seguinte caminho "data/list_users_instagram.txt", iserir os seguintes dados
+separados por vírgula: Indice, Nome, Nome_Usuario_Instagram, Url_Foto_Pessoa
+    *** caso não tenha foto, colocar escrito sem aspas a palavra "null"
+
+    2) Após gerado uma vez o arquivo em .xlsx, formato do Excel, não modificar
+o arquivo "list_users_instagram.txt", pois, se modificar irá quebrar o arquivo.
+    *** caso não deseja monitorar mais aquela pessoa remover manualmente do
+    arquivo "users_instagram.xlsx" e tambem do arquivo "list_users_instagram.txt",
+    fazendo dessa forma não tem problema.
